@@ -7,12 +7,12 @@
         "test data",
         "generator"
     ],
-    "homepage": "http://github.com/pointybeard-forks/ReverseRegex",
+    "homepage": "https://github.com/artur-horkh/ReverseRegex",
     "type": "library",
     "license": "MIT",
     "support": {
-        "issues": "https://github.com/pointybeard-forks/ReverseRegex/issues",
-        "wiki": "https://github.com/pointybeard-forks/ReverseRegex/wiki"
+        "issues": "https://github.com/artur-horkh/ReverseRegex/issues",
+        "wiki": "https://github.com/artur-horkh/ReverseRegex/wiki"
     },
     "minimum-stability": "stable",
     "authors": [
